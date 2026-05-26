@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevender",
+        "uuid": 6873510,
+        "checksum": "jducwc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
